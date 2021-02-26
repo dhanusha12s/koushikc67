@@ -1,2 +1,6 @@
 Once upon a time. Hello how are you?
 This is a gitbash class.
+The story will start and end shortly.
+Bye
+Goodbye.
+..

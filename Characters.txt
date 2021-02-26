@@ -4,3 +4,6 @@ boy
 crocodile
 elephant
 crane
+donkey
+zebra
+lion
