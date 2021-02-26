@@ -7,3 +7,6 @@ crane
 donkey
 zebra
 lion
+hippo
+giraffe
+snake
