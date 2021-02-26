@@ -1,0 +1,6 @@
+monkey
+man
+boy
+crocodile
+elephant
+crane
